@@ -5,7 +5,8 @@ I am still adding new items to this website, so check back frequently.
 
 
 >*NOTICE*: This website is protected by the APACHE LICENSE 2.0. 
->You may read the terms and conditions [here](https://kobeni523.github.io/LICENSE.md)
+You may read the terms and conditions [here](https://kobeni523.github.io/LICENSE.md)
+
 ### Proxies
 **DISCORD** - https://kobeni523.github.io/discord
 
