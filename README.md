@@ -9,9 +9,25 @@ I am still adding new items to this website, so check back frequently.
 
 ### Proxies
 **DISCORD** - https://kobeni523.github.io/discord
+```
+This is an advanced Discord proxy.
+You're essentially just on discord with a different URL!
+
+No, I do not record your login credidentials...
+```
 
 ### Games
-**MINECRAFT v1.5.2** - 
+**MINECRAFT v1.5.2** - https://kobeni523.github.io/minecraft
+```
+⚠ CAUTION: MAY BE UNSTABLE ⚠
+
+A browser version of the COMPLETE VERSION of Minecraft. 
+This is completely multiplayer so you can play with your friends!
+
+Servers will rotate frequently, if there is none online please check back later.
+```
+
+
 
 ### Entertainment
 //null
