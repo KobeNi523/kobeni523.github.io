@@ -1,5 +1,12 @@
 ## Bypass Directory
 
+Find what you're looking here at the _Bypass Directory_!
+I am still adding new items to this website, so check back frequently.
+
+```
+*NOTICE*: This website is protected by the APACHE LICENSE 2.0. 
+You may read the terms and conditions at 
+```
 You can use the [editor on GitHub](https://github.com/KobeNi523/kobeni523.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
