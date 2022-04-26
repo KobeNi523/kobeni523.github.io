@@ -8,7 +8,7 @@ I am still adding new items to this website, so check back frequently.
 >You may read the terms and conditions [here](https://kobeni523.github.io/LICENSE.md)
 
 ## Proxies
-**DISCORD** - https://kobeni523.github.io/discord
+**DISCORD** - [https://kobeni523.github.io/discord](https://kobeni523.github.io/discord)
 ```
 This is an advanced Discord proxy.
 You're essentially just on discord with a different URL!
@@ -17,10 +17,10 @@ No, I do not record your login credidentials...
 ```
 
 ## Games
-**MINECRAFT v1.5.2** - https://kobeni523.github.io/minecraft
+**MINECRAFT v1.5.2** - [https://kobeni523.github.io/minecraft](https://kobeni523.github.io/minecraft)
 ```
-⚠ CAUTION: MAY BE UNSTABLE ⚠
-
+*⚠ CAUTION: MAY BE UNSTABLE*
+*⚠ DOES NOT WORK DURING SCHOOLTIME HOURS - PLAY AFTER 3:35 PM*
 A browser version of the COMPLETE VERSION of Minecraft. 
 This is completely multiplayer so you can play with your friends!
 
